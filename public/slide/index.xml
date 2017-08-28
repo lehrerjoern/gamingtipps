@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Slides on Site Title | Hugo Remark-Twemoji</title>
+    <link>/slide/</link>
+    <description>Recent content in Slides on Site Title | Hugo Remark-Twemoji</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="/slide/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>/slide/01/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/slide/01/</guid>
+      <description>class: center, middle, inverse
+#.fonth2[Hugo]
+- #.fonth4[remark-twemoji] https://github.com/eueung/hugo-remark-twemoji</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/slide/03/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/slide/03/</guid>
+      <description>--- class: split-50 nopadding bkgpos_00 background-image: url(bkgs/bubble-right.png) .column_t2.font10em[  ] .column_t2[.vmiddle.xkcd_font.pushfront.center[ #.red[Kokokok] # Hello People! Let&#39;s continue our class! ]] </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/slide/05/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/slide/05/</guid>
+      <description>--- class: split-50 nopadding bkgpos_00 background-image: url(bkgs/bubble-right.png) .column_t2.font10em[  ] .column_t2[.vmiddle.xkcd_font.pushfront.center[ #Ooo Ockay! C&#39;mon Leute ... ]] </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/slide/06/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/slide/06/</guid>
+      <description>--- class: split-50 nopadding bkgpos_00 background-image: url(bkgs/bubble-right.png) .column_t2.font10em[  ] .column_t2[.vmiddle.xkcd_font.pushfront.center[ #Waaat Schon Wieder Untericht? .blue[No.no.no]! ]] </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/slide/07/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/slide/07/</guid>
+      <description>--- class: split-50 nopadding bkgpos_00 background-image: url(bkgs/bubble-right.png) .column_t2.font10em[  ] .column_t2[.vmiddle.xkcd_font.pushfront.center[ #Please dong.. Class can wait.. now we need a little fun with... .red[Kung-Fu]! ]] </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/slide/08/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/slide/08/</guid>
+      <description>--- class: split-50 nopadding bkgpos_00 background-image: url(bkgs/bubble-right.png) .column_t2.font10em[  ] .column_t2[.vmiddle.xkcd_font.pushfront.center[ #Ooo Got it.. today we learn Kung-Fu in the class! ]] </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/slide/09/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/slide/09/</guid>
+      <description>--- class: split-50 nopadding bkgpos_00 background-image: url(bkgs/bubble-left.png) .column_t2[.vmiddle.xkcd_font.pushfront.center[ #Cool Sounds amusing! ]] .column_t2.font10em[  ] </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/slide/10/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/slide/10/</guid>
+      <description>class: center, middle, inverse
+Remark What is it and why should I be using it? layout: false .left-column[ ## What is it? ] .right-column[ A simple, in-browser, Markdown-driven slideshow tool targeted at people who know their way around HTML and CSS, featuring:
+ Markdown formatting, with smart extensions
+ Presenter mode, with cloned slideshow view
+ Syntax highlighting, supporting a range of languages
+ Slide scaling, thus similar appearance on all devices / resolutions .</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/slide/15/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/slide/15/</guid>
+      <description>--- class: split-50 nopadding bkgpos_00 background-image: url(bkgs/bubble-right.png) .column_t2.font10em[  ] .column_t2[.vmiddle.xkcd_font.pushfront.center[ #Ooo Was that .red[Remark] Kung-Fu? ]] </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/slide/17/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/slide/17/</guid>
+      <description>--- class: split-50 nopadding bkgpos_00 background-image: url(bkgs/bubble-left.png) .column_t2[.vmiddle.xkcd_font.pushfront.center[ #Ooo Was that .red[Remark] Kung-Fu? ]] .column_t2.font10em[  ] </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/slide/18/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/slide/18/</guid>
+      <description>--- class: split-50 nopadding bkgpos_00 background-image: url(bkgs/bubble-left.png) .column_t2[.vmiddle.xkcd_font.pushfront.center[ #Ooo Was that .red[Remark] Kung-Fu? ]] .column_t2.font10em[  ] </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/slide/21/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/slide/21/</guid>
+      <description>--- class: split-50 nopadding bkgpos_00 background-image: url(bkgs/bubble-left.png) .column_t2[.vmiddle.xkcd_font.pushfront.center[ #Ooo Was that .red[Remark] Kung-Fu? ]] .column_t2.font10em[  ] </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/slide/25/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/slide/25/</guid>
+      <description>--- class: split-50 nopadding bkgpos_00 background-image: url(bkgs/bubble-left.png) .column_t2[.vmiddle.xkcd_font.pushfront.center[ #New Ideas? ... ]] .column_t2.font10em[  ] </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/slide/26/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/slide/26/</guid>
+      <description>--- class: split-50 nopadding bkgpos_00 background-image: url(bkgs/bubble-left.png) .column_t2[.vmiddle.xkcd_font.pushfront.center[ #Learn Always learn something new .. ]] .column_t2.font10em[  ] </description>
+    </item>
+    
+  </channel>
+</rss>
