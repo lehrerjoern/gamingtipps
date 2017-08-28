@@ -3,6 +3,7 @@ theme           = "remark-twemoji"
 languageCode    = "en-us"
 title           = "Site Title | Hugo Remark-Twemoji"
 canonifyurls    = true
+publishDir      = "docs"
 
 [params]
   googleAnalytics = ""
